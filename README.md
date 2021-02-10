@@ -12,4 +12,4 @@
 
 ![](https://github.com/izepon/clone-netflix/blob/master/img/landing-page-cloneflix2.PNG)
 
-Adicionar melhorias futuramente e melhor aspecto da página e design.
+Adicionar melhorias futuramente e aspecto da página e design.
